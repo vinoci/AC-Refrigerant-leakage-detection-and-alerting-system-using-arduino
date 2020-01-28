@@ -4,6 +4,10 @@ night time when there is a leakage of freon and other harmful gases rarely from 
 This leakage is really dangerous as it could cause suffocation leading to death of individuals. 
 Freon is a tasteless and odourless gas which is commonly used in AC for the purpose of cooling.
 This is done with the help of components like tgs 832 A00 (a cfc sensor),an arduino and a buzzer.
+
+
+
+
 code :
 int redLed = 12;
 int greenLed = 11;
